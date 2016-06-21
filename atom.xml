@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title><![CDATA[烟斗葛格的部落格]]></title>
+  <title><![CDATA[黑土先森的部落格]]></title>
   
   <link href="/atom.xml" rel="self"/>
-  <link href="http://2008go.github.io/"/>
+  <link href="http://mrheitu.github.io/"/>
   <updated>2016-01-05T11:07:16.000Z</updated>
-  <id>http://2008go.github.io/</id>
+  <id>http://mrheitu.github.io/</id>
   
   <author>
-    <name><![CDATA[烟斗葛格]]></name>
+    <name><![CDATA[黑土先森]]></name>
     
   </author>
   
@@ -16,8 +16,8 @@
   
   <entry>
     <title><![CDATA[Hello Hexo]]></title>
-    <link href="http://2008go.github.io/2016/01/05/hello-world/"/>
-    <id>http://2008go.github.io/2016/01/05/hello-world/</id>
+    <link href="http://mrheitu.github.io/2016/01/05/hello-world/"/>
+    <id>http://mrheitu.github.io/2016/01/05/hello-world/</id>
     <published>2016-01-05T11:06:40.000Z</published>
     <updated>2016-01-05T11:07:16.000Z</updated>
     <content type="html"><![CDATA[<h1 id="Hello_Hexo"><a href="#Hello_Hexo" class="headerlink" title="Hello Hexo"></a>Hello Hexo</h1>]]></content>
