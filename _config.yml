@@ -3,16 +3,16 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: 烟斗葛格的部落格
+title: 黑土先森的部落格
 subtitle:
 description:
-author: 烟斗葛格
+author: 黑土先森
 language:
 timezone:
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: http://2008go.github.io
+url: http://heitu.github.io
 root: /
 permalink: :year/:month/:day/:title/
 permalink_defaults:
@@ -69,5 +69,5 @@ theme: apollo
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type: git
-  repository: https://github.com/2008go/2008go.github.io.git
+  repository: https://github.com/mrheitu/mrheitu.github.io.git
   branch: master
