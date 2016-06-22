@@ -4,7 +4,7 @@
   
   <link href="/atom.xml" rel="self"/>
   <link href="http://mrheitu.github.io/"/>
-  <updated>2016-06-21T14:21:58.000Z</updated>
+  <updated>2016-06-22T02:31:08.000Z</updated>
   <id>http://mrheitu.github.io/</id>
   
   <author>
@@ -15,11 +15,11 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
-    <title><![CDATA[Hello Hexo]]></title>
+    <title><![CDATA[Hello, I'm 黑土先森.]]></title>
     <link href="http://mrheitu.github.io/2016/01/05/hello-world/"/>
     <id>http://mrheitu.github.io/2016/01/05/hello-world/</id>
-    <published>2016-01-05T11:06:40.000Z</published>
-    <updated>2016-06-21T14:21:58.000Z</updated>
+    <published>2016-01-05T11:06:00.000Z</published>
+    <updated>2016-06-22T02:31:08.000Z</updated>
     <content type="html"><![CDATA[<h1 id="Hello_2C_I_u2019m__u9ED1_u571F_u5148_u68EE"><a href="#Hello_2C_I_u2019m__u9ED1_u571F_u5148_u68EE" class="headerlink" title="Hello, I’m 黑土先森."></a>Hello, I’m 黑土先森.</h1><p><img src="/images/tou.jpg" alt="image"></p>
 ]]></content>
     <summary type="html">
