@@ -3,9 +3,9 @@
   <title><![CDATA[黑土先森的部落格]]></title>
   
   <link href="/atom.xml" rel="self"/>
-  <link href="http://JamesHT.github.io/"/>
-  <updated>2016-06-22T02:31:08.000Z</updated>
-  <id>http://JamesHT.github.io/</id>
+  <link href="http://jamesht.github.io/"/>
+  <updated>2016-09-09T13:04:07.000Z</updated>
+  <id>http://jamesht.github.io/</id>
   
   <author>
     <name><![CDATA[黑土先森]]></name>
@@ -15,9 +15,28 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
+    <title><![CDATA[如果生命可以折叠]]></title>
+    <link href="http://jamesht.github.io/2016/09/09/%E5%A6%82%E6%9E%9C%E7%94%9F%E5%91%BD%E5%8F%AF%E4%BB%A5%E6%8A%98%E5%8F%A0/"/>
+    <id>http://jamesht.github.io/2016/09/09/如果生命可以折叠/</id>
+    <published>2016-09-09T12:58:32.000Z</published>
+    <updated>2016-09-09T13:04:07.000Z</updated>
+    <content type="html"><![CDATA[<p>title: 如果生命可以折叠</p>
+<h2 id="tags_3A"><a href="#tags_3A" class="headerlink" title="tags:"></a>tags:</h2><p>一张纸叠51次就是有2^51 =2251799813685248层。</p>
+<p>如果这张纸的厚度是0.07毫米，那么对折51次后它的厚度是多少呢？</p>
+<p>经过换算：0.07×2251799813685248=1.576亿多千米，（地球到太阳的距离约为1.496亿千米)。</p>
+<p>如果生命也可以折叠，把无效社交折叠掉，把连续剧折叠，把无意义的朝九晚五折叠，是不是可以有更多时间做一个有意义的人类？</p>
+]]></content>
+    <summary type="html">
+    <![CDATA[<p>title: 如果生命可以折叠</p>
+<h2 id="tags_3A"><a href="#tags_3A" class="headerlink" title="tags:"></a>tags:</h2><p>一张纸叠51次就是有2^51 =225179981368524]]>
+    </summary>
+    
+  </entry>
+  
+  <entry>
     <title><![CDATA[Hello, I'm 黑土先森.]]></title>
-    <link href="http://JamesHT.github.io/2016/01/05/hello-world/"/>
-    <id>http://JamesHT.github.io/2016/01/05/hello-world/</id>
+    <link href="http://jamesht.github.io/2016/01/05/hello-world/"/>
+    <id>http://jamesht.github.io/2016/01/05/hello-world/</id>
     <published>2016-01-05T11:06:00.000Z</published>
     <updated>2016-06-22T02:31:08.000Z</updated>
     <content type="html"><![CDATA[<h1 id="Hello_2C_I_u2019m__u9ED1_u571F_u5148_u68EE"><a href="#Hello_2C_I_u2019m__u9ED1_u571F_u5148_u68EE" class="headerlink" title="Hello, I’m 黑土先森."></a>Hello, I’m 黑土先森.</h1><p><img src="/images/tou.jpg" alt="image"></p>
